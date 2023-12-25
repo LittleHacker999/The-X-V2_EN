@@ -11,7 +11,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Scribble&size=50&pause=1000&color=F7240EFF&center=true&width=910&height=100&lines=The+X+Bot;English+Version;By+Little+Hacker;Team+Bit+X" alt="Typing SVG" /></a>
 <h2 align="center"> Profile Visitors
 </h2>
-<p align="center"><img src="https://profile-counter.glitch.me/{LittleHacker999}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{LittleHacker999}/count.svg" alt="excelottah6 :: Visitor's Count" /></p><br>
  ```1.Scan QR Code```<br>
   This is A Optional Step Because The Qr Code Generateted Automaticially.This Is Important For Heroku Deployers.<br>
       
