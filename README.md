@@ -9,3 +9,6 @@
     I am The X Bot Coded By Little Hacker and This Is a Edited Version Of Dark Alfa Bot By Deap Eagle
     <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Scribble&size=50&pause=1000&color=F7240EFF&center=true&width=910&height=100&lines=The+X+Bot;English+Version;By+Little+Hacker;Team+Bit+X" alt="Typing SVG" /></a>
+<h2 align="center"> Profile Visitors
+</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{LittleHacker999}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
