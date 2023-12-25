@@ -12,7 +12,7 @@
 <h2 align="center"> Profile Visitors
 </h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{LittleHacker999}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
-##1. Scan QR Code
+##1. Scan QR Code<br>
   This is A Optional Step Because The Qr Code Generateted Automaticially.This Is Important For Heroku Deployers.
   
 
