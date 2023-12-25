@@ -15,6 +15,7 @@
 ##1. Scan QR Code<br>
   This is A Optional Step Because The Qr Code Generateted Automaticially.This Is Important For Heroku Deployers.<br>
       
-  ***Get [Creds.json](https://replit.com/@jithulabhasitha/The-X-Session?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***<br>
+  **Get [Creds.json](https://replit.com/@jithulabhasitha/The-X-Session?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`**<br>
+  ***And Upload It To sessions Folder***
   
 
