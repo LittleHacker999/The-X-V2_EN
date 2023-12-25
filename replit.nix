@@ -2,7 +2,7 @@
     deps = [
 
         pkgs.yarn
-         pkgs.nodejs-16_x
+        pkgs.nodejs-16_x
         pkgs.libwebp
         pkgs.python
         pkgs.nodePackages.typescript
