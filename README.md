@@ -14,6 +14,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{LittleHacker999}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
 ##1. Scan QR Code<br>
   This is A Optional Step Because The Qr Code Generateted Automaticially.This Is Important For Heroku Deployers.<br>
-  ***Get [[SESSION-ID]](https://replit.com/@jithulabhasitha/The-X-Session?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+      
+  ***Get [[SESSION-ID]](https://replit.com/@jithulabhasitha/The-X-Session?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***<br>
   
 
