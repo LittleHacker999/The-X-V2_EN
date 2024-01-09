@@ -1,0 +1,60 @@
+{
+   "name":"The X Bot",
+   "description":"A WhatsApp Bot With Multi Device Supported By Little Hacker",
+   "keywords":[
+      "bot",
+      "whatsapp"
+   ],
+   "website":"https://
+  littlehacker.free.nf",
+   "repository":"https://github.com/Deep-Eagle/The-X-V2_EN.git",
+   "logo":"https://i.ibb.co/FbbyDt7/TheX.png",
+   "success_url":"/",
+   "env":{
+      "NAME":{
+         "description":"Name of your bot",
+         "required":true
+      },
+      "PREFIX":{
+         "description":"Prefix of your bot",
+         "required":true
+      },
+      "MODS":{
+         "description":"The phone numbers of the users you want to be the administrator for the bot (  without having to be in international format and separated by a comma of multiple numbers). \",\")",
+         "required":true
+      },
+      "URL":{
+         "description":"Enter Your MongoDB Url",
+         "required":true
+      },
+          "GPT":{
+         "description":"A key used for Write Sonic",
+         "required":false
+      },
+      "BG_API_KEY":{
+         "description":"A key used for www.remove.bg",
+         "required":false
+      },
+      "PORT":{
+         "description":"give 3000",
+         "required":true
+      }
+   },
+   "buildpacks":[
+      {
+         "url":"heroku/nodejs"
+      },
+      {
+         "url":"https://github.com/PrajjwalDatir/heroku-buildpack-imagemagick.git"
+      },
+      {
+         "url":"https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      },
+      {
+         "url":"https://github.com/ItsJimi/heroku-buildpack-pm2.git"
+      },
+      {
+         "url":"https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+      }
+   ]
+}
